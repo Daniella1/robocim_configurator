@@ -1,7 +1,7 @@
 <p align="center">
-    <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Daniella1/urdf_files_dataset.svg">
+    <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Daniella1/robocim_configurator.svg">
     <br>
-    Counting since 20-10-2023
+    Counting since 10-11-2023
 </p>
 
 # Example Configurator For Robot Systems
